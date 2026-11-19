@@ -90,5 +90,5 @@ I don't just analyze data; I design how it is presented.
 Shall we talk about data, design, or how to combine both?
 
 [![Email](https://img.shields.io/badge/Email-cristina.andresrr@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:cristina.andresrr@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-PROFILE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristinaandrs)
 [![Portfolio](https://img.shields.io/badge/Portfolio-cristinadesigns.vercel.app-FF5722?style=flat&logo=vercel&logoColor=white)](https://cristinadesigns.vercel.app)
